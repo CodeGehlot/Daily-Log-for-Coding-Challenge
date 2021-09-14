@@ -142,3 +142,13 @@ Where as name and location is parameter and inside the double quotes is Argument
 be easy to read and understand. Using pythontutor .com can also help decoding each line to understand better.
 
 ---------------------------------------
+### Day 9: September 14th, 2021
+
+**Today's Progress**: 
+- Functions and Output
+- Print vs return
+- how to write comment for user defined functions
+
+**Thoughts**: Created a calculator code along with the help of the intructor and the explaination was good. Main thing was how to be careful using while loop and inside it calling the function within a function to avoid function to go infinte loops.
+
+---------------------------------------
