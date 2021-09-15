@@ -152,3 +152,14 @@ be easy to read and understand. Using pythontutor .com can also help decoding ea
 **Thoughts**: Created a calculator code along with the help of the intructor and the explaination was good. Main thing was how to be careful using while loop and inside it calling the function within a function to avoid function to go infinte loops.
 
 ---------------------------------------
+### Day 10: September 15th, 2021
+
+**Today's Progress**: 
+- Basic HTML & HTML 5
+- a href tag, img src tag
+- ul and ol tag
+- form tag, button tag
+
+**Thoughts**: Did not feel like doing python today so headed over freecodecamp website and started with html and html5 basics and completed 70% of its course.
+
+---------------------------------------
