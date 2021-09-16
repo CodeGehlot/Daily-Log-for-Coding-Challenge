@@ -172,7 +172,7 @@ be easy to read and understand. Using pythontutor .com can also help decoding ea
   - Local Scope which exists within functions.
   - Global Scope which exists outside functions and is available anywhere with the file because its define at the top/start of the function.
 - Scope also applies to functions and anything else which is known as Namespace.
-- 
+- GLOBAL variable in capital letters
 
 ### Points to remember:
 - we can use "<!-- -->" to comment out in HTML.
@@ -187,8 +187,7 @@ be easy to read and understand. Using pythontutor .com can also help decoding ea
 - Three important properties control the space that surrounds each HTML element: padding, border, and margin.
 - Instead of specifying an element's padding-top, padding-right, padding-bottom, and padding-left properties individually, you can specify them all in one line.
 
-  
 
-**Thoughts**: Did not feel like doing python today so headed over freecodecamp website and started with html and html5 basics and completed 70% of its course.
+**Thoughts**: CSS feels nice but are detailed. Python needs practice.
 
 ---------------------------------------
