@@ -163,3 +163,32 @@ be easy to read and understand. Using pythontutor .com can also help decoding ea
 **Thoughts**: Did not feel like doing python today so headed over freecodecamp website and started with html and html5 basics and completed 70% of its course.
 
 ---------------------------------------
+### Day 11: September 16th, 2021
+
+**Today's Progress**: 
+- Completed Basic HTML & HTML 5
+- Started with basic CSS
+- Scope in Python 
+  - Local Scope which exists within functions.
+  - Global Scope which exists outside functions and is available anywhere with the file because its define at the top/start of the function.
+- Scope also applies to functions and anything else which is known as Namespace.
+- 
+
+### Points to remember:
+- we can use "<!-- -->" to comment out in HTML.
+- uses "style" tag to change color, font size font type etc so it would be applied to whole instead of changing it inside h2 tag or p tag.
+- "<label><input type="radio" name="indoor-outdoor" checked> Indoor</label>" for radio type option
+- "checkbox" for checkbox type options
+- "<input type="text" placeholder="cat photo URL" required> <button type="submit">Submit</button>" for button and inside it placeholder text.
+- Remember that you can apply multiple classes to an element using its class attribute, by separating each class name with a space. 
+- Define a class in style tag using period and then declare that class in h2 or p or div tag wherever required.
+- Note that inside your style element, you always reference classes by putting a . in front of their names. 
+- You always reference ids by putting a # in front of their names.  
+- Three important properties control the space that surrounds each HTML element: padding, border, and margin.
+- Instead of specifying an element's padding-top, padding-right, padding-bottom, and padding-left properties individually, you can specify them all in one line.
+
+  
+
+**Thoughts**: Did not feel like doing python today so headed over freecodecamp website and started with html and html5 basics and completed 70% of its course.
+
+---------------------------------------
