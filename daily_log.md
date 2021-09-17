@@ -191,3 +191,12 @@ be easy to read and understand. Using pythontutor .com can also help decoding ea
 **Thoughts**: CSS feels nice but are detailed. Python needs practice.
 
 ---------------------------------------
+### Day 12: September 17th, 2021
+
+**Today's Progress**: 
+- Basic CSS completed
+- Python debugging tips
+
+**Thoughts**: Started with CSS completed it and then started with python course which showed us about how to read or debug the code in case of errors.
+
+---------------------------------------
