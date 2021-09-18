@@ -200,3 +200,12 @@ be easy to read and understand. Using pythontutor .com can also help decoding ea
 **Thoughts**: Started with CSS completed it and then started with python course which showed us about how to read or debug the code in case of errors.
 
 ---------------------------------------
+### Day 13: September 18th, 2021
+
+**Today's Progress**: 
+- Visual Design HTML completed
+- Did practice Python game from the course
+
+**Thoughts**: Started with Visual design from freecodecamp completed it and then started with python course which showed one game to create from scratch. I started with it and then eventually needed help in figuring out how to print key value of dictionary nested inside list.
+
+---------------------------------------
