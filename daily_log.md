@@ -203,9 +203,17 @@ be easy to read and understand. Using pythontutor .com can also help decoding ea
 ### Day 13: September 18th, 2021
 
 **Today's Progress**: 
-- Visual Design HTML completed
+- Visual Design HTML completed half
 - Did practice Python game from the course
 
-**Thoughts**: Started with Visual design from freecodecamp completed it and then started with python course which showed one game to create from scratch. I started with it and then eventually needed help in figuring out how to print key value of dictionary nested inside list.
+**Thoughts**: Started with Visual design from freecodecamp completed it 50% and then started with python course which showed one game to create from scratch. I started with it and then eventually needed help in figuring out how to print key value of dictionary nested inside list.
+
+---------------------------------------
+### Day 14: September 19th, 2021
+
+**Today's Progress**: 
+- Visual Design HTML completed fully
+
+**Thoughts**: Started with Visual design from freecodecamp completed it and did not do python today.
 
 ---------------------------------------
