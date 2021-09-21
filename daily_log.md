@@ -225,3 +225,11 @@ be easy to read and understand. Using pythontutor .com can also help decoding ea
 **Thoughts**: Started with Visual accessibility from freecodecamp completed 50% it and did solve one question from codewars website for python today.
 
 ---------------------------------------
+### Day 16: September 21st, 2021
+
+**Today's Progress**: 
+- Visual Accessibility completed 100%
+
+**Thoughts**: Started with Visual accessibility from freecodecamp completed 100% it and did not work with python today.
+
+---------------------------------------
