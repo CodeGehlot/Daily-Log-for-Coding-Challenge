@@ -238,6 +238,7 @@ be easy to read and understand. Using pythontutor .com can also help decoding ea
 **Today's Progress**: 
 - Responsive web design principles, CSS Flexbox completed 100%.
 
-**Thoughts**: Started with Visual accessibility from freecodecamp completed 100% it and did not work with python today.
+**Thoughts**: Started with freecodecamp and then tried to find easy problems to solve for python, realised I need to learn more about Data Structures and Algorithms
+without it cant't crack the coding interviews. Finding resources to learn the same to prepare myself.
 
 ---------------------------------------
