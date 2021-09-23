@@ -245,12 +245,11 @@ without it cant't crack the coding interviews. Finding resources to learn the sa
 ### Day 18: September 23rd, 2021
 
 **Today's Progress**: 
-- CSS completed 100%.
+- CSS Grid completed 100%.
 
 *Learned about* -
 - align-items(vertically grid): start/center/end, justify-items(horizontally grid): same
 
-**Thoughts**: Started with freecodecamp and then tried to find easy problems to solve for python, realised I need to learn more about Data Structures and Algorithms
-without it cant't crack the coding interviews. Finding resources to learn the same to prepare myself.
+**Thoughts**: Started with freecodecamp only today.
 
 ---------------------------------------
