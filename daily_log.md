@@ -253,3 +253,13 @@ without it cant't crack the coding interviews. Finding resources to learn the sa
 **Thoughts**: Started with freecodecamp only today.
 
 ---------------------------------------
+### Day 19: September 24th, 2021
+
+**Today's Progress**: 
+- Completed first challenge of freecodecamp's Responsive Web Design Project - Tribute Page
+
+**Thoughts**: Initially there were no hint and slowly I checked on Youtube and then implimented it on my own. Really HTML and CSS going hand in hand is the best thing.
+
+**Link**: [FCC: Tribute Page Project](https://codepen.io/CodeGehlot/full/powxvLg)
+
+---------------------------------------
