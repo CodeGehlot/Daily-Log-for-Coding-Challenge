@@ -263,3 +263,12 @@ without it cant't crack the coding interviews. Finding resources to learn the sa
 **Link**: [FCC: Tribute Page Project](https://codepen.io/CodeGehlot/full/powxvLg)
 
 ---------------------------------------
+### Day 20-21: September 25th-26th, 2021
+
+**Today's Progress**: 
+- Work in progress of 2nd challenge of freecodecamp's Responsive Web Design Project - Survey Form
+
+**Thoughts**: Initially there were no hint and slowly I checked on Youtube and then implimented it on my own. Need to figure out the 1 missing from 16/17 passed.
+
+---------------------------------------
+
