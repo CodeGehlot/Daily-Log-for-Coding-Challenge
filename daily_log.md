@@ -271,4 +271,13 @@ without it cant't crack the coding interviews. Finding resources to learn the sa
 **Thoughts**: Initially there were no hint and slowly I checked on Youtube and then implimented it on my own. Need to figure out the 1 missing from 16/17 passed.
 
 ---------------------------------------
+### Day 22: September 27th, 2021
+
+**Today's Progress**: 
+- Completed 2nd project of Survey form
+- Work in progress of 3rd challenge of freecodecamp's Responsive Web Design Project - Landing Page
+
+**Thoughts**: Initially there were no hint and slowly I checked on Youtube and then implimented it on my own. Need to figure out the rest of codes for landing page.
+
+---------------------------------------
 
