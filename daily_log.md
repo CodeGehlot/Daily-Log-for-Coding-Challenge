@@ -280,4 +280,12 @@ without it cant't crack the coding interviews. Finding resources to learn the sa
 **Thoughts**: Initially there were no hint and slowly I checked on Youtube and then implimented it on my own. Need to figure out the rest of codes for landing page.
 
 ---------------------------------------
+### Day 23: September 28th, 2021
+
+**Today's Progress**: 
+- Continued Work in progress of 3rd challenge of freecodecamp's Responsive Web Design Project - Landing Page
+
+**Thoughts**: Need to figure out the rest of codes for landing page.
+
+---------------------------------------
 
