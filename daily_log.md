@@ -288,4 +288,13 @@ without it cant't crack the coding interviews. Finding resources to learn the sa
 **Thoughts**: Need to figure out the rest of codes for landing page.
 
 ---------------------------------------
+### Day 24: September 29th, 2021
+
+**Today's Progress**: 
+- Completed 3rd challenge of freecodecamp's Responsive Web Design Project - Product Landing Page.
+
+**Thoughts**: After checking inspect and looking at other websites code and re-visiting flexbox, margin, padding etc then updated accordingly.
+
+---------------------------------------
+
 
