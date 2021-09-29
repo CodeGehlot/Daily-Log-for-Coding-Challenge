@@ -279,6 +279,7 @@ without it cant't crack the coding interviews. Finding resources to learn the sa
 
 **Thoughts**: Initially there were no hint and slowly I checked on Youtube and then implimented it on my own. Need to figure out the rest of codes for landing page.
 
+**Link**: [FCC: Survey Form Project](https://codepen.io/CodeGehlot/full/abwRKMP)
 ---------------------------------------
 ### Day 23: September 28th, 2021
 
@@ -295,6 +296,7 @@ without it cant't crack the coding interviews. Finding resources to learn the sa
 
 **Thoughts**: After checking inspect and looking at other websites code and re-visiting flexbox, margin, padding etc then updated accordingly.
 
+**Link**: [FCC: Product Landing Page Project](https://codepen.io/CodeGehlot/full/KKqrxeO)
 ---------------------------------------
 
 
