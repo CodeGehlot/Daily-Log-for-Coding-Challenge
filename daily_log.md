@@ -299,4 +299,14 @@ without it cant't crack the coding interviews. Finding resources to learn the sa
 **Link**: [FCC: Product Landing Page Project](https://codepen.io/CodeGehlot/full/KKqrxeO)
 ---------------------------------------
 
+### Day 25: September 30th, 2021
+
+**Today's Progress**: 
+- Completed 4th challenge of freecodecamp's Responsive Web Design Project - Technical Document Page.
+
+**Thoughts**: After checking what I was missing by clicking on passed I came to know which one was left and slowly understood where the changes were needed.
+
+**Link**: [Python Technical Document Page](https://codepen.io/CodeGehlot/full/KKqENgY)
+---------------------------------------
+
 
