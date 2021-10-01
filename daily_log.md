@@ -308,5 +308,14 @@ without it cant't crack the coding interviews. Finding resources to learn the sa
 
 **Link**: [Python Technical Document Page](https://codepen.io/CodeGehlot/full/KKqENgY)
 ---------------------------------------
+### Day 26: October 1st, 2021
+
+**Today's Progress**: 
+- Work in Progress for 5th challenge of freecodecamp's Responsive Web Design Project - Personal Portfolio Website.
+
+**Thoughts**: I need to understand the basics again for HTML and CSS both to get better clarity so I could build it without looking at other's code. I have started reading 
+Head first HTML and CSS 2nd edition book.
+
+---------------------------------------
 
 
