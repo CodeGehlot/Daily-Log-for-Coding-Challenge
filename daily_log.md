@@ -317,5 +317,13 @@ without it cant't crack the coding interviews. Finding resources to learn the sa
 Head first HTML and CSS 2nd edition book.
 
 ---------------------------------------
+### Day 27: October 2nd, 2021
+
+**Today's Progress**: 
+- Studied Head first HTML and CSS book to know in-depth about html and css
+
+**Thoughts**: This book is really great in explaining the concepts that simple. I loved it and I plan to finish it till the end to understand CSS better that was the plan.
+
+---------------------------------------
 
 
