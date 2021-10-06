@@ -351,7 +351,7 @@ Head first HTML and CSS 2nd edition book.
   styling being applied to each element is called as Cascade in CSS.
 - You can style pseudo-classes, but no one ever types them into their HTML.
 - Pseudo-classes are those that are not written in HTML but can be styled in CSS and are real and applied by the browser.
-- <a> element states are unvisited, visited, and hover.
+- a element states are unvisited, visited, and hover.
   
 
 **Thoughts**: Had a great time knowing div element in dept and how to use border, margin, padding and width of the content. Also got clear explaination on 
