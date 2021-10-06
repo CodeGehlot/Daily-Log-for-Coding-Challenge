@@ -341,5 +341,22 @@ Head first HTML and CSS 2nd edition book.
 **Thoughts**: This book is really great in explaining the concepts that simple. I loved it and I plan to finish it till the end to understand CSS better that was the plan.
 
 ---------------------------------------
+### Day 31: October 6th, 2021
+
+**Today's Progress**: 
+- Continued Studying Head first HTML and CSS book to know in-depth about html and css.
+- Difference between using div or span elements
+- The width property of the content
+- The way that styles coming from multiple stylesheets can all “cascade” down into the page, with the most specific
+  styling being applied to each element is called as Cascade in CSS.
+- You can style pseudo-classes, but no one ever types them into their HTML.
+- Pseudo-classes are those that are not written in HTML but can be styled in CSS and are real and applied by the browser.
+- <a> element states are unvisited, visited, and hover.
+  
+
+**Thoughts**: Had a great time knowing div element in dept and how to use border, margin, padding and width of the content. Also got clear explaination on 
+  Cascade in CSS and pseudo-class in CSS.
+
+---------------------------------------
 
 
