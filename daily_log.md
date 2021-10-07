@@ -358,5 +358,15 @@ Head first HTML and CSS 2nd edition book.
   Cascade in CSS and pseudo-class in CSS.
 
 ---------------------------------------
+### Day 32: October 7th, 2021
+
+**Today's Progress**: 
+- Continued Studying Head first HTML and CSS book to know in-depth about html and css.
+- Float elements
+- Display layouts - Absolute, float, relative, static(default) and table
+
+**Thoughts**: Majorly studied about content positioning from the book.
+
+---------------------------------------
 
 
