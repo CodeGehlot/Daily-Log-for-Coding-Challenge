@@ -368,5 +368,16 @@ Head first HTML and CSS 2nd edition book.
 **Thoughts**: Majorly studied about content positioning from the book.
 
 ---------------------------------------
+### Day 33: October 8th, 2021
+
+**Today's Progress**: 
+- Continued Studying Head first HTML and CSS book to know in-depth about html and css.
+- Form input type- Text, Number, Tel, Zip, Email, color, date, url
+- POST packages up your form variables and sends them behind the scenes to your server, while GET also packages up your form variables,
+but appends them on the end of the URL before it sends a request to the server
+
+**Thoughts**: SKipped Table chapter and continued with HTML Form.
+
+---------------------------------------
 
 
