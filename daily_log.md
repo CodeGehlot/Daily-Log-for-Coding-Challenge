@@ -379,5 +379,14 @@ but appends them on the end of the URL before it sends a request to the server
 **Thoughts**: SKipped Table chapter and continued with HTML Form.
 
 ---------------------------------------
+### Day 34: October 9th, 2021
+
+**Today's Progress**: 
+- Finally Completed with Head first HTML and CSS book of html and css.
+- Revisited FreeCodeCamp to do revision before I begin again with obtaining the certificate
+**Thoughts**: Now I am confident to create HTML with CSS.
+
+---------------------------------------
+
 
 
