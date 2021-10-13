@@ -387,6 +387,18 @@ but appends them on the end of the URL before it sends a request to the server
 **Thoughts**: Now I am confident to create HTML with CSS.
 
 ---------------------------------------
+### Day 35: October 10th, 2021
 
+**Today's Progress**: 
+- No Coding
+---------------------------------------
+### Day 36, 37 & 38: October 11th, 12th & 13th 2021
+
+**Today's Progress**: 
+- Revisited FreeCodeCamp and reworked on first 2 project again from scratch.
+
+**Thoughts**: Now I am confident to create website HTML with CSS on my own.
+
+---------------------------------------
 
 
