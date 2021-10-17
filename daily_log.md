@@ -408,6 +408,18 @@ but appends them on the end of the URL before it sends a request to the server
 **Thoughts**: Now I am confident to create website HTML with CSS on my own.
 
 ---------------------------------------
+### Day 40 and 41: October 16th & 17th 2021
+
+**Today's Progress**: 
+- Day 40 no coding.
+- Day 41 continued with FCC practice for 3rd Project.
+- Now I am confident with creating a fixed Nav-bar with menu.
+- Still need practice for mobile optimization.
+- Need to work on grid display to display Pricing section side by side on Product landing page project.
+
+**Thoughts**: Now I am confident to create simple website on my own but still need to work on mobile responsive with the help of media query.
+
+---------------------------------------
 
 
 
