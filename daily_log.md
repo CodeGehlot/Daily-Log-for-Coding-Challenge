@@ -420,6 +420,12 @@ but appends them on the end of the URL before it sends a request to the server
 **Thoughts**: Now I am confident to create simple website on my own but still need to work on mobile responsive with the help of media query.
 
 ---------------------------------------
+### Day 43: October 18th 2021
 
+**Today's Progress**: 
+- Done with Grid Display.
+- Done with media query, still need to get a gasp of it.
+
+**Thoughts**: SUbmitted 3rd project of FCC after completing it with grid and media query.
 
 
