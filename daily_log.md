@@ -428,4 +428,12 @@ but appends them on the end of the URL before it sends a request to the server
 
 **Thoughts**: SUbmitted 3rd project of FCC after completing it with grid and media query.
 
+---------------------------------------
+### Day 44: October 19th 2021
+
+**Today's Progress**: 
+- Explored with CSS media query
+
+**Thoughts**: Experimented on 3rd project of FCC for mobile responsive using the media query.
+
 
