@@ -436,4 +436,15 @@ but appends them on the end of the URL before it sends a request to the server
 
 **Thoughts**: Experimented on 3rd project of FCC for mobile responsive using the media query.
 
+---------------------------------------
+### Day 45 & 46: October 20th and 21st 2021
+
+**Today's Progress**: 
+- Day 45 No Coding
+- Day 46 Completed and Submmited 4th Project of FCC Technical Document 
+
+**Thoughts**: This was quick because I saved time for content taking only lorem ipsum
+
+---------------------------------------
+
 
