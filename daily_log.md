@@ -446,5 +446,14 @@ but appends them on the end of the URL before it sends a request to the server
 **Thoughts**: This was quick because I saved time for content taking only lorem ipsum
 
 ---------------------------------------
+### Day 47, 48 & 49: October 20th and 21st 2021
+
+**Today's Progress**: 
+- Day 47, 48 - No Coding
+- Day 49 WIP 5th Project of FCC Technical Document 
+
+**Thoughts**: Just did the basic coding, need to work on lots of things. 
+
+---------------------------------------
 
 
