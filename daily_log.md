@@ -464,5 +464,14 @@ but appends them on the end of the URL before it sends a request to the server
 **Thoughts**: Watched one video, understood and applied accordingly, need to work on lots of things. 
 
 ---------------------------------------
+### Day 53: October 28th 2021
+
+**Today's Progress**: 
+- Watched one Youtube video to make myself understand and then will impliment it on my own work.
+
+**Thoughts**: Yesterday's video still was a little tough to impliment so watched the simplest one which made my brain go easy, 
+still need to work on lots of things. 
+
+---------------------------------------
 
 
