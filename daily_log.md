@@ -473,5 +473,15 @@ but appends them on the end of the URL before it sends a request to the server
 still need to work on lots of things. 
 
 ---------------------------------------
+### Day 54-66: Nov 10th 2021
+
+**Today's Progress**:
+- Day 54 till Day 65 - No Coding (I Know i took long break, because Life Happened, New Job shift, 10hours for 5 days etc) 
+- Day 66 Completed with grid view for project using CSS.
+- Need to work on Mobile responsive using CSS
+
+**Thoughts**: After so long I am getting back to code, I assure myself to continue working on coding an hour daily. 
+
+---------------------------------------
 
 
