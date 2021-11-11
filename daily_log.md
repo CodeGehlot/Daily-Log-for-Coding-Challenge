@@ -483,5 +483,14 @@ still need to work on lots of things.
 **Thoughts**: After so long I am getting back to code, I assure myself to continue working on coding an hour daily. 
 
 ---------------------------------------
+### Day 67: Nov 11th 2021
+
+**Today's Progress**:
+- Continued with Mobile responsive work in progress.
+- There seems to be many ways to convert CSS grid column to rows for mobile view.
+
+**Thoughts**: I am getting a hang of coding again after so long, I just want to be on flow and start remembering things. 
+
+---------------------------------------
 
 
